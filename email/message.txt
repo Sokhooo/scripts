@@ -4,7 +4,7 @@ MIME-Version: 1.0
 Content-Type: text/html
 Subject: #{subject}
 
-This is a test email
+This is a test email ok
 <br>
 From,
 <br>
